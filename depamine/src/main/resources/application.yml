@@ -1,0 +1,8 @@
+spring.application.name: depamine
+
+
+
+kakao:
+
+  client_id: fcb566243617113492704098613c6afb
+  redirect_uri: http://localhost:8080/callback
